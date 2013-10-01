@@ -1,0 +1,12 @@
+# object and object archives
+*.[oa]
+
+# temporary text editor files (Emacs)
+*~
+
+# qtcreator project setting files
+*.pro.user*
+
+# user qmake settings
+user.pri
+
